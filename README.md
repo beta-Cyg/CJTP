@@ -22,8 +22,10 @@ According to CJ
 
 ## Data Content (Determined by content length)
 
+```
 PV000000 CL000000
 CL000000 CL000000
 CL000000 R RT00000
 DATA...
+```
 
