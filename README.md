@@ -1,4 +1,4 @@
-# Cygnuge Judge system Transter Protocol (CJTP)
+# Cygnuge Judge system Transfer Protocol (CJTP)
 
 ## Protocol Version (1 byte)
 
@@ -8,7 +8,7 @@ $0 ~ 2^8 - 1$
 
 $0 ~ 2^32 - 1$
 
-- includes header
+- the length includes header
 - minimum: 6 bytes
 
 ## Response/Request (1 bit)
