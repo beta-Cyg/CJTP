@@ -2,11 +2,11 @@
 
 ## Protocol Version (1 byte)
 
-$0 \~ 2^8 - 1$
+$0 \sim 2^8 - 1$
 
 ## Content Length (4 bytes)
 
-$0 \~ 2^{32} - 1$
+$0 \sim 2^{32} - 1$
 
 - the length includes header
 - minimum: 6 bytes
